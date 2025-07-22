@@ -1,9 +1,6 @@
-\[FULLY EXPANDED README — PAYNEXUS (10,000+ WORDS)]
-
 # 💼 PayNexus — Employee Salary Prediction Web Application
 
-**Internship Duration**: June – July 2025
-**Internship Deliverable**: End-to-end Machine Learning Web Application
+**Project Duration**: June – July 2025
 **Hosted At**: [Streamlit Cloud App](https://employee-salary-prediction-web-app.streamlit.app/)
 
 ---
@@ -24,8 +21,7 @@
 12. [Results and Interpretations](#results-and-interpretations)
 13. [Future Scope](#future-scope)
 14. [Conclusion](#conclusion)
-15. [Acknowledgements](#acknowledgements)
-16. [Live Demo](#live-demo)
+15. [Live Demo](#live-demo)
 
 ---
 
